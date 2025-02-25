@@ -19,10 +19,10 @@ export function Projects() {
     },
     {
       id: '3',
-      title: 'Project Three',
-      description: 'E-commerce user interface with focus on accessibility.',
-      imageUrl: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80',
-      tags: ['React', 'TypeScript', 'Design System'],
+      title: 'TypeScript Detector',
+      description: 'A super simple and fun project to work on.',
+      imageUrl: './pics/TSDetector.png',
+      tags: ['Netx.js', 'TypeScript', 'Bolt'],
     },
   ];
 
