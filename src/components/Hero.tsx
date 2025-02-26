@@ -37,7 +37,7 @@ export function Hero() {
             <div className="relative w-64 h-64 mx-auto">
               <div className="absolute inset-0 bg-gray-200 rounded-full"></div>
               <img
-                src="./pics/itme.jpg"
+                src="/pics/itme.jpg"
                 alt="Profile placeholder"
                 className="absolute inset-0 w-full h-full object-cover rounded-full"
               />
