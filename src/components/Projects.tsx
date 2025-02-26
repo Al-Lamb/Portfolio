@@ -7,7 +7,7 @@ export function Projects() {
       title: "TypeScript Blog",
       description:
         "A modern web application taking users through the first steps on using TypeScript .",
-      imageUrl: ".public/pics/tsBlog.png",
+      imageUrl: "public/pics/tsBlog.png",
       tags: ["Next.js", "TypeScript", "Tailwind CSS"],
       githubUrl: "https://github.com/Al-Lamb/Hitchhikers-Guide-To-TS",
       demoUrl: "https://hitchhikers-guide-to-type-script-qa2d11duf.vercel.app/",
@@ -16,7 +16,7 @@ export function Projects() {
       id: "2",
       title: "TypeScript Detector",
       description: "Simple, Fun, Creative.",
-      imageUrl: ".public/pics/tsDetector.png",
+      imageUrl: "public/pics/tsDetector.png",
       tags: ["Next.js", "UI/UX", "Typescript"],
       githubUrl: "https://github.com/Al-Lamb/Typescript_Detector",
       demoUrl: "https://famous-monstera-7817d5.netlify.app/",
@@ -26,7 +26,7 @@ export function Projects() {
       title: "Haringey Council Prototype",
       description:
         "Early stage Figma wireframe prototype for Haringey Council Social workers.",
-      imageUrl: ".public/pics/figmaBoard.png",
+      imageUrl: "public/pics/figmaBoard.png",
       tags: ["Figma WireFrames", "Figjam", "Design Sprints"],
       githubUrl: "./pics/figmaBoard.png",
       demoUrl:
