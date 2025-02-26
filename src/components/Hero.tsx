@@ -1,4 +1,3 @@
-import React from "react";
 import { ArrowRight } from "lucide-react";
 
 export function Hero() {
@@ -37,7 +36,7 @@ export function Hero() {
             <div className="relative w-64 h-64 mx-auto">
               <div className="absolute inset-0 bg-gray-200 rounded-full"></div>
               <img
-                src=".public/pics/itme.jpg"
+                src=".public/pics/itMe.jpg"
                 alt="Profile placeholder"
                 className="absolute inset-0 w-full h-full object-cover rounded-full"
               />
